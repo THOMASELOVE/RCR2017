@@ -1,21 +1,21 @@
 # RCR2017
 Materials for RCR+4 presentation on 2017-11-08
 
-**"*p* values, Reproducibility and Modern Science"**
-
-Thomas E. Love, Ph.D.
-
-- Professor of Medicine, Population & Quantitative Health Sciences, CWRU School of Medicine
-- Director of Biostatistics and Evaluation, [Center for Health Care Research and Policy](http://chrp.org/)
-- Chief Data Scientist and Past Data Director, [Better Health Partnership](http://betterhealthpartnership.org/)
+## *p* values, Reproducibility and Modern Science
 
 Today's slides are available in [PDF](https://github.com/THOMASELOVE/RCR2017/blob/master/love-2017-11-08.pdf). 
 The text version in [R Markdown](https://github.com/THOMASELOVE/RCR2017/blob/master/love-2017-11-08.rmd) is also available.
 
-- Thomas dot Love at case dot edu  
-- Twitter: @thomaselove 
-- GitHub: THOMASELOVE
-- Web: [thomaselove.org](https://thomaselove.github.io/) is (very much under development.)
+## Thomas E. Love, Ph.D.
+
+- Professor of Medicine, Population & Quantitative Health Sciences, CWRU School of Medicine
+- Director of Biostatistics and Evaluation, [Center for Health Care Research and Policy](http://chrp.org/)
+- Chief Data Scientist and Past Data Director, [Better Health Partnership](http://betterhealthpartnership.org/)
+    - Thomas dot Love at case dot edu  
+    - Twitter: @thomaselove 
+    - GitHub: THOMASELOVE
+    - Web: [thomaselove.org](https://thomaselove.github.io/) (very much under development.)
+
 
 ## Links to Materials discussed in Today's Presentation
 
