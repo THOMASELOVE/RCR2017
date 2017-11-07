@@ -35,7 +35,7 @@ The text version in [R Markdown](https://github.com/THOMASELOVE/RCR2017/blob/mas
     - [Finally, A Formula for Decoding Health News](https://fivethirtyeight.com/features/a-formula-for-decoding-health-news/) by Jeff Leek
  
 3. On *p* Values
-    - The American Statistical Association [Statement](http://amstat.tandfonline.com/doi/pdf/10.1080/00031305.2016.1154108) on *p*-Values: Context, Process, and Purpose, by Ron Wasserstein and Nicole Lazar
+    - The American Statistical Association [Statement](http://amstat.tandfonline.com/doi/pdf/10.1080/00031305.2016.1154108) on *p*-Values: Context, Process, and Purpose
     - [Psychology Journal Bans *P* Values](http://www.nature.com/news/psychology-journal-bans-p-values-1.17001), from Chris Woolston at *Nature*.
     - Connor JT (2004) [The Value of a *p*-valueless paper](https://www.nature.com/ajg/journal/v99/n9/pdf/ajg2004321a.pdf?origin=ppub&foxtrotcallback=true)
     - Mark DB, Lee KL, Harrell FE (2016) [Understanding the Role of P Values and Hypothesis Tests in Clinical Research](https://jamanetwork.com/journals/jamacardiology/fullarticle/2566171) in JAMA Cardiology.
