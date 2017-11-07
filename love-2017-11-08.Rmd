@@ -385,6 +385,10 @@ But other people will use my data and code to compete with me?
 >- But competition means that strangers will read your work, try to learn from you, cite you, and try to do things even better.
 >- If you prefer obscurity, why are you publishing?
 
+## A Most Important Tip (@drob)
+
+![](images/gradschool.png)
+
 ## Read This Book
 
 ![](images/modern.png)
