@@ -1,6 +1,6 @@
 ---
-title: "Statistics, Reproducibility and Modern Science"
-author: "Thomas.Love@case.edu"
+title: "*p* values, Reproducibility & Modern Science"
+author: "github.com/THOMASELOVE/RCR2017"
 date: "2017-11-08"
 output:
   beamer_presentation:
@@ -16,11 +16,20 @@ options(width = 60)
 
 ## Sorry about the title
 
-I won't be talking about rigor today. Reproducibility is the actual theme.
+I won't be doing any rigorous statistical analysis. Reproducibility is the actual theme.
 
-Today's slides are at 
+Today's slides are at https://github.com/THOMASELOVE/RCR2017. 
 
-## PSA from XKCD
+### Thomas E. Love, Ph.D.
+
+- Professor of Medicine, Population & Quantitative Health Sciences, CWRU School of Medicine
+- Director of Biostatistics and Evaluation, [Center for Health Care Research and Policy](http://chrp.org/)
+- Chief Data Scientist and Past Data Director, [Better Health Partnership](http://betterhealthpartnership.org/)
+- Fellow, American Statistical Association
+
+My email is Thomas dot Love at case dot edu.
+
+## Public Service Announcement from XKCD
 
 ![](images/dates-psa.png)
 
@@ -168,7 +177,7 @@ A: Because that’s what they were taught in college or grad school.
 
 > The common practice of dividing data comparisons into categories based on significance levels is terrible, but it happens all the time.... so it's worth examining the prevalence of this error.
 
-[Andrew Gelman's blog (2016-10-15)](http://andrewgelman.com/2016/10/15/marginally-significant-effects-as-evidence-for-hypotheses-changing-attitudes-over-four-decades/)
+Andrew Gelman's blog [$\textcolor{blue}{2016-10-15}$](http://andrewgelman.com/2016/10/15/marginally-significant-effects-as-evidence-for-hypotheses-changing-attitudes-over-four-decades/)
 
 ## Gelman on *p* values, 1
 
@@ -209,7 +218,7 @@ From a **psychological** point of view, the trouble with using the p-value as a 
 
 "... we use the term statistically significant in the conventional way, to mean that an estimate is **at least two standard errors away** from some "null hypothesis" or prespecified value that would indicate no effect present. An estimate is statistically insignificant if the observed value could reasonably be explained by simple chance variation, much in the way that a sequence of 20 coin tosses might happen to come up 8 heads and 12 tails; we would say that this result is not statistically significantly different from chance. More precisely, the observed proportion of heads is 40 percent but with a standard error of 11 percent - thus, the data are less than two standard errors away from the null hypothesis of 50 percent, and the outcome could clearly have occurred by chance. Standard error is a measure of the variation in an estimate and gets smaller as a sample size gets larger, converging on zero as the sample increases in size."
 
-[Gelman's blog (2017-10-28)](http://andrewgelman.com/2017/10/28/favorite-definition-statistical-significance/)
+Gelman [$\textcolor{blue}{2017-10-28}$](http://andrewgelman.com/2017/10/28/favorite-definition-statistical-significance/)
 
 # New (2014-2017) Proposals
 
@@ -219,7 +228,7 @@ Jason T. Connor (2004) *American J of Gastroenterology* 99(9): 1638-40.
 
 Abstract: As is common in current bio-medical research, about 85% of original contributions in *The American Journal of Gastroenterology* in 2004 have reported *p*-values. However, none are reported in this issue's article by Abraham et al. who, instead, rely exclusively on effect size estimates and associated confidence intervals to summarize their findings. **Authors using confidence intervals communicate much more information in a clear and efficient manner than those using** *p*-**values. This strategy also prevents readers from drawing erroneous conclusions caused by common misunderstandings about** *p*-**values**. I outline how standard, two-sided confidence intervals can be used to measure whether two treatments differ or test whether they are clinically equivalent.
 
-DOI: 10.1111/j.1572-0241.2004.40592.x
+[$\textcolor{blue}{Link}$](https://www.nature.com/ajg/journal/v99/n9/pdf/ajg2004321a.pdf?origin=ppub&foxtrotcallback=true)
 
 ## Editorial from JAMA Cardiology 2016-10-12
 
@@ -328,6 +337,10 @@ Vanderbilt [$\textcolor{blue}{Tutorial}$](http://biostat.mc.vanderbilt.edu/wiki/
 
 The papers/slideshows/abstracts are not the research. The research is the full software environment, code and data that produced the results. (Donoho, 2010). Separating research from its advertisement makes it hard for others to verify or reproduce our findings.
 
+Your closest collaborator is you, six months ago, but you don't respond to emails. (Holder via Broman)
+
+Karl Broman, Steps Towards Reproducible Research [$\textcolor{blue}{link}$](http://kbroman.org/steps2rr/)
+
 ## Build Tidy Data Sets
 
 - Each variable you measure should be in one column.
@@ -343,11 +356,11 @@ Jeff Leek: "How to share data with a statistician" [$\textcolor{blue}{link}$](ht
 
 ![](images/namingthings.png)
 
-http://www.phdcomics.com/comics/archive.php?comicid=1531
+[$\textcolor{blue}{Source}$](http://www.phdcomics.com/comics/archive.php?comicid=1531)
 
 ## Great advice on choosing good filenames
 
-https://speakerdeck.com/jennybc/how-to-name-files from Jenny Bryan
+https://speakerdeck.com/jennybc/how-to-name-files from **Jenny Bryan**
 
 Good names are:
 
@@ -362,7 +375,7 @@ Good names are:
 2013-04-26_BRAFASSAY_Plasmid-Cell-100-1MutantFraction_H02.csv
 ```
 
-"Go forward and use awesome filenames!"
+File organization and naming are powerful weapons against chaos. Go forward and use awesome filenames!
 
 ## Wisdom from DL Donoho (2010) re: Open-Source
 
