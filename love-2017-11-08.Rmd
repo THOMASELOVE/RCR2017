@@ -347,7 +347,7 @@ Karl Broman, Steps Towards Reproducible Research [$\textcolor{blue}{link}$](http
 - Each different observation of that variable should be in a different row.
 - There should be one table for each "kind" of variable.
 - If you have multiple tables, they should include a column in the table that allows them to be linked.
-- Include a row at the top of each data table that contains rull row names. `Age_at_Diagnosis` is a much much better name than `ADx`.
+- Include a row at the top of each data table that contains real row names. `Age_at_Diagnosis` is a much much better name than `ADx`.
 - Build useful codebooks.
 
 Jeff Leek: "How to share data with a statistician" [$\textcolor{blue}{link}$](https://github.com/jtleek/datasharing)
